@@ -33,6 +33,10 @@ Input: 10
 Output:
 10 feet is equal to 3.05 meters
 
+## Example
+![Screenshot (113)](https://github.com/user-attachments/assets/802c9e4b-0d32-43c0-823c-bc86a0f4b693)
+
+
 ## Valid Conversions
 
 Feet to Meters
